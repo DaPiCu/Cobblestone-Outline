@@ -6,7 +6,7 @@ This repository contains a Minecraft texture pack that modifies the textures of 
 The texture pack is compatible with all Minecraft versions up to 1.20.
 
 ## Reporting Issues
-If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/your-username/your-repository-name/issues) in this repository. I appreciate your feedback!
+If you encounter any issues or have suggestions for improvement, please feel free to [open an issue](https://github.com/DaPiCu/Cobblestone-Outline/issues/) in this repository. I appreciate your feedback!
 
 ## Installation
 1. Download the latest release of the texture pack from [Modrinth](https://modrinth.com/resourcepack/cobblestone-outlines) . 
