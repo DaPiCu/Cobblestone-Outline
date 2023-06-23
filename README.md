@@ -13,4 +13,4 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 
 
 ## License
-This texture pack is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please refer to the LICENSE file for more details.
+Feel free to use it ^^
